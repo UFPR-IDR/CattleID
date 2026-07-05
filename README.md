@@ -1,7 +1,7 @@
 # CattleID
 
 This repository acts as a public access for the source code and implementation commented and detailed in [ARTICLE], it is also a way for us to publish the dataset utilized in this article and our internal projects:
-| Breed    | Total Images | Animals | Sessions |
+| Segment    | Total Images | Animals | Sessions |
 | -------- | -----------: | ------: | -------: |
 | Jersey_1 |        1,491 |      63 |        3 |
 | Jersey_2 |        3,180 |      89 |        8 |
