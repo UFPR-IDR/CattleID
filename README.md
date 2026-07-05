@@ -1,6 +1,13 @@
 # CattleID
 
-This repository acts as a public access for the source code and implementation commented and detailed in [ARTICLE].
+This repository acts as a public access for the source code and implementation commented and detailed in [ARTICLE], it is also a way for us to publish the dataset utilized in this article and our internal projects:
+| Breed    | Total Images | Animals | Sessions |
+| -------- | -----------: | ------: | -------: |
+| Jersey_1 |        1,491 |      63 |        3 |
+| Jersey_2 |        3,180 |      89 |        8 |
+| Purunã   |       11,884 |     431 |        2 |
+| **All**  |   **16,555** | **583** |    **8** |
+
 This project was developed by students and researchers at Universidade federal do Paraná (UFPR) and Instituto de Desenvolvimento Rural do Paraná (IDR).
 
 ## Means of use
